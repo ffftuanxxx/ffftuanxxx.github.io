@@ -26,7 +26,7 @@ You can find my CV here: [Jiecheng Liao's Curriculum Vitae](../assets/jiecheng_c
 
 Chat with me
 ======
-<div class="calendly-inline-widget" data-url="https://calendly.com/xrailgunxfighter/30min" style="min-width:320px;height:500px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/xrailgunxfighter/30min" style="min-width:280px;height:500px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
 A data-driven personal website
