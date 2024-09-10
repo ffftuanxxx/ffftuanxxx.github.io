@@ -7,18 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/). My research interest includes Deep Learning, Computer Vision, Computer Graphics, and Medical Image Processing.
+Here is Jiecheng Liao (James, 廖皆成).
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am an undergraduate student currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/). My research interest includes Machine Learning, Deep Learning, Computer Vision, Computer Graphics, and Medical Image Processing.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+I have served as a research member at Guangdong Key Laboratory for Artificial Intelligence and Multi-Modal Data Processing and Data intelligence lab of UIC, advised by [Prof. Chen](https://www.researchgate.net/profile/Shuhong-Chen-2) and [Prof. Zhang](https://staff.uic.edu.cn/amyzhang/en).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+<!-- I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. -->
+
+You can find my CV here: [XX's Curriculum Vitae](../assets/jiecheng_cv_latest.pdf).
+
+[Email](mailto:liaojiecheng25@163.com) / [Github](https://github.com/ffftuanxxx) / [Personal Website](elucidator.cn) /
 
 <!-- Calendly inline widget begin -->
 <!--<div class="calendly-inline-widget" data-url="https://calendly.com/xrailgunxfighter/30min" style="min-width:320px;height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>-->
 <!-- Calendly inline widget end -->
+
+Chat with me
+======
+<div class="calendly-inline-widget" data-url="https://calendly.com/xrailgunxfighter/30min" style="min-width:320px;height:500px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
 A data-driven personal website
 ======
