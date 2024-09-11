@@ -9,7 +9,8 @@ redirect_from:
 
 Here is Jiecheng Liao (James, 廖皆成).
 
-I am an undergraduate student currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/). My research interest includes Machine Learning, Deep Learning, Computer Vision, Computer Graphics, and Medical Image Processing.
+I am an undergraduate student currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/). 
+<!-- My research interest includes Machine Learning, Deep Learning, Computer Vision, Computer Graphics, and Medical Image Processing. -->
 
 I have served as a research member at Guangdong Key Laboratory for Artificial Intelligence and Multi-Modal Data Processing and Data intelligence lab of UIC, advised by [Prof. Chen](https://www.researchgate.net/profile/Shuhong-Chen-2) and [Prof. Zhang](https://staff.uic.edu.cn/amyzhang/en).
 
@@ -28,8 +29,8 @@ Research Interests
 - Computer Vision
 - Computer Graphics
 - Medical Image Processing
-- Smart Contracts Analyzing
-My current research focuses on practical problems that artificial intelligence faces in real life.
+- Smart Contracts Analyzing  
+My current research focuses on practical problems that artificial intelligence on Vision faces in Industry and real life.
 
 Chat with me
 ======
