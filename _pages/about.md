@@ -33,6 +33,15 @@ Research Interests
 
 My current research focuses on practical problems that artificial intelligence on Vision faces in Industry and real life. In a word, advanced algorithm and architecture in DL and CV positively influence the life of everybody. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
+Honors and Awards
+======
+- Second Prize in the Guangdong Science and Innovation Competition of **Artificial Intelligence Wheeled Robot** in September 2023
+- Third Prize of Group C/C++ of the 14th **Lanqiao Cup** Guangdong Division in April 2023
+- Bronze Medal in Kaggle **HuBMAP + HPA: Hacking the Human Body** in December 2022
+- Certificate: 
+  - Tencent Computer Vision Project Completion Certificate
+  - Apsara Clouder Elastic Computing Certification
+
 Chat with me
 ======
 <div class="calendly-inline-widget" data-url="https://calendly.com/xrailgunxfighter/30min" style="min-width:280px;height:500px;"></div>
