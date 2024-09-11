@@ -29,8 +29,9 @@ Research Interests
 - Computer Vision
 - Computer Graphics
 - Medical Image Processing
-- Smart Contracts Analyzing  
-My current research focuses on practical problems that artificial intelligence on Vision faces in Industry and real life.
+- Smart Contracts Analyzing
+
+My current research focuses on practical problems that artificial intelligence on Vision faces in Industry and real life. In a word, advanced algorithm and architecture in DL and CV positively influence the life of everybody. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 Chat with me
 ======
