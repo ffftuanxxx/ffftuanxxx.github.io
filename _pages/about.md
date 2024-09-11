@@ -12,7 +12,7 @@ Here is Jiecheng Liao (James, 廖皆成).
 I am an undergraduate student currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/). 
 <!-- My research interest includes Machine Learning, Deep Learning, Computer Vision, Computer Graphics, and Medical Image Processing. -->
 
-I have served as a research member at Guangdong Key Laboratory for Artificial Intelligence and Multi-Modal Data Processing and Data intelligence lab of UIC, advised by [Prof. Chen](https://www.researchgate.net/profile/Shuhong-Chen-2) and [Prof. Zhang](https://staff.uic.edu.cn/amyzhang/en).
+I have served as a research member at Guangdong Key Laboratory for Artificial Intelligence and Multi-Modal Data Processing and Data intelligence lab of UIC, advised by [Prof. Chen](https://www.researchgate.net/profile/Shuhong-Chen-2) and [Prof. Zhang](https://staff.uic.edu.cn/amyzhang/en). I am also very fortunate to be advised by [Prof. Su](https://staff.uic.edu.cn/wfsu/en) for some of my projects.
 
 <!-- I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. -->
 
@@ -39,8 +39,8 @@ Honors and Awards
 - Third Prize of Group C/C++ of the 14th **Lanqiao Cup** Guangdong Division in April 2023
 - Bronze Medal in Kaggle **HuBMAP + HPA: Hacking the Human Body** in December 2022
 - Certificate: 
-  - Tencent Computer Vision Project Completion Certificate
-  - Apsara Clouder Elastic Computing Certification
+  - Tencent **Computer Vision** Project Completion Certificate
+  - Apsara Clouder Elastic Computing Certificate
 
 On-going Publications
 ======
