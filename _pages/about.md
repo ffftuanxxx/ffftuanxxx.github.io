@@ -42,6 +42,15 @@ Honors and Awards
   - Tencent Computer Vision Project Completion Certificate
   - Apsara Clouder Elastic Computing Certification
 
+On-going Publications
+======
+- Jiecheng Liao, Weifeng Su, Shi He, Shuhong Chen, Yixuan Ji, Junhao Lu, Liangfu Chen. “BMS^3: Bayesian Modeling Based SwinUNet Segmentation on Self-distillation Architecture”. IEEE International Conference on Bioinformatics and Biomedicine. Under Review, 2024
+- Shuhong Chen, Zhenkun Luo, Jiecheng Liao, et al. “Smart Contract Vulnerability Detection based on Bytecode Augmentation and Semantic Structure Graph”. IEEE Transactions on Dependable and Security Computing. Under Review
+
+Research Projects
+======
+
+
 Chat with me
 ======
 <div class="calendly-inline-widget" data-url="https://calendly.com/xrailgunxfighter/30min" style="min-width:280px;height:500px;"></div>
