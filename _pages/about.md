@@ -40,7 +40,7 @@ Honors and Awards
 - Bronze Medal in Kaggle **HuBMAP + HPA: Hacking the Human Body** in December 2022
 - Certificate: 
   - Tencent **Computer Vision** Project Completion Certificate
-  - Apsara Clouder Elastic Computing Certificate
+  - Apsara **Clouder** Elastic Computing Certificate
 
 On-going Publications
 ======
