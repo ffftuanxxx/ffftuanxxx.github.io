@@ -29,9 +29,9 @@ Research Interests
 - Computer Vision
 - Computer Graphics
 - Medical Image Processing
-- Smart Contracts Analyzing
+- Smart Contracts Analyzing (on vulnerability detection)
 
-My current research focuses on practical problems that artificial intelligence on Vision faces in Industry and real life. In a word, advanced algorithm and architecture in DL and CV positively influence the life of everybody. I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical problems that artificial intelligence on Vision faces in Industry and real life. In a word, advanced algorithm and architecture in DL and CV positively influence the life of many people. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 Honors and Awards
 ======
@@ -48,6 +48,15 @@ On-going Publications
 - Shuhong Chen, Zhenkun Luo, Jiecheng Liao, et al. "Smart Contract Vulnerability Detection based on Bytecode Augmentation and Semantic Structure Graph". IEEE Transactions on Dependable and Security Computing. Under Review
 
 Research Projects
+======
+- **GBC: Gaussian-splatting Based Colorization**
+  - **Outline**
+    - 
+  - **Key Responsibility**
+  - **Achievement**
+
+
+Early Projects
 ======
 
 Skills
