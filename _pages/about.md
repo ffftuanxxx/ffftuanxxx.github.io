@@ -53,6 +53,7 @@ Research Projects
 
 Chat with me
 ======
+## Please wait a second, it needs some time for loading...
 <div class="calendly-inline-widget" data-url="https://calendly.com/xrailgunxfighter/30min" style="min-width:280px;height:500px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
