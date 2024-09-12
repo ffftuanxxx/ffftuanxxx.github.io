@@ -50,6 +50,19 @@ On-going Publications
 Research Projects
 ======
 
+Skills
+======
+- Computer Skills
+  - Programming Languages: Python, C, C++, PHP, Java, Bash, LaTeX
+  - Deep Learning Frameworks: Pytorch, TensorFlow, Scikit-learn
+  - Web Design: HTML, CSS, JavaScript; Database Design: MySQL
+- Language Skills
+  - Chinese (Native)
+  - English (Proficient)
+  - Japanese (Average)
+- Hobbies
+  - Web building, Construction of IoT, e.g. telecontrol; bot chat, Fine-tuning language models
+  - Archery
 
 Chat with me
 ======
