@@ -33,7 +33,7 @@ Research Interests
 
 My current research focuses on practical problems that artificial intelligence on Vision faces in Industry and real life. In a word, advanced algorithm and architecture in DL and CV positively influence the life of many people. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
-Honors and Awards
+Honors & Awards
 ======
 - Second Prize in the Guangdong Science and Innovation Competition of **Artificial Intelligence Wheeled Robot** in September 2023
 - Third Prize of Group C/C++ of the 14th **Lanqiao Cup** Guangdong Division in April 2023
@@ -51,8 +51,9 @@ Research Projects
 ======
 - **GBC: Gaussian-splatting Based Colorization**
   - **Outline**
-    - 
+    - gaussian splatting based feature image on 
   - **Key Responsibility**
+    - 
   - **Achievement**
 
 
