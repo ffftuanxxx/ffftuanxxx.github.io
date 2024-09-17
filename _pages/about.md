@@ -80,7 +80,7 @@ Chat with me
 <div class="calendly-inline-widget" data-url="https://calendly.com/xrailgunxfighter/30min" style="min-width:280px;height:500px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2_WYngTYNyorC-5awaMfW3JhhLYWum-8WDs9oZE60RY"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=2_WYngTYNyorC-5awaMfW3JhhLYWum-8WDs9oZE60RY&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
 <!-- A data-driven personal website
 ======
