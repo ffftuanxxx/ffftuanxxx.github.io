@@ -81,9 +81,9 @@ Chat with me
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
 
-Visitor Count
+<!--Visitor Count
 ======
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=270&t=tt&d=2_WYngTYNyorC-5awaMfW3JhhLYWum-8WDs9oZE60RY'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=270&t=tt&d=2_WYngTYNyorC-5awaMfW3JhhLYWum-8WDs9oZE60RY'></script>-->
 
 <!-- A data-driven personal website
 ======
