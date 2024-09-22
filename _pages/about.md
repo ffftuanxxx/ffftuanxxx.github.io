@@ -68,7 +68,8 @@ Research Projects
 
 - **ESP32-based Real-Time IV Drip Monitoring and Alert Platform**        
   - 11.2023-04.2024
-  - [**GITHUB**](github.com/ffftuanxxx/ESP32-liquid)        [**DEMO**](elucidator.cn/esp32hosp-demo/)
+  - [**GITHUB**](github.com/ffftuanxxx/ESP32-liquid)        
+  - [**DEMO**](elucidator.cn/esp32hosp-demo/)
   - **Outline**
     - Developed an innovative IoT-based system for real-time monitoring and control of intravenous drips in hospital settings.
   - **Key Responsibility**
@@ -130,8 +131,40 @@ Early Projects
 ======
 - **Non-chordal Music Generation**
   - 10.2022-11.2022
+  - [**GITHUB**](github.com/ffftuanxxx/CCP)
   - **Main**
     - Designed and implemented a non-chordal music generation system using Bi-LSTM. Provided two ways for generating the non-chordal music, Auto-generation and Continuation Generation. Employed temperature sampling and designed lexical lists to map the corpus for digital storage.
+
+- **Network Communication Software**
+  - 06.2023
+  - [**GITHUB**](github.com/ffftuanxxx/Com-sot)
+  - **Main**
+    - Developed a network communication software using C++ with QT for the GUI, featuring a multi-threaded server and client for data transmission, and MySQL for data storage.
+
+- **Software of Film Analysis, Prediction and Auto-arrangement for Theatre**
+  - 05.2023-06.2023
+  - **Main**
+    - Developed a software using QT and MySQL for film analysis, prediction, and auto-scheduling, featuring deep learning for data analysis and multiple visualization methods.
+
+- **Designed Database for Medical Donation and Web Processing**
+  - 10.2022-12.2022
+  - [**GITHUB**](github.com/ffftuanxxx/Donation-Management-System)
+  - **Main**
+    - Created a web-based donation platform that aims to facilitate donations to poverty and disaster-affected areas worldwide.
+    - Designed a relational database for a web-based donation platform using MySQL, focusing on entities such as users, beneficiaries, donations, and comments, with a front-end implemented in Bootstrap.
+
+- **Webpage and Database Design for Book Purchase and Exchange Store**
+  - 05.2022-06.2022
+  - [**GITHUB**](github.com/ffftuanxxx/Book-purchase-and-exchange-system)
+  - **Main**
+    - Developed a comprehensive book platform allowing users to purchase and exchange books, with the entire system self-developed.
+
+- **Library Lending System**
+  - 05.2022-06.2022
+  - [**GITHUB**](github.com/ffftuanxxx/Library-Book-Lending-System)
+  - **Main**
+    - Developed a Java-based library book lending system with a command-line interface, featuring user management, book tracking, and error handling, structured with interfaces and abstract classes.
+
 
 Skills
 ======
