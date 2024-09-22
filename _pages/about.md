@@ -49,14 +49,16 @@ On-going Publications
 
 Research Projects
 ======
-- [**GBC: Gaussian-splatting Based Colorization**](elucidator.cn/gbc-demo/)        06.2024-Present
+- [**GBC: Gaussian-splatting Based Colorization**](elucidator.cn/gbc-demo/)        
+  - 06.2024-Present
   - **Outline**
     - Pioneered an innovative system for colorizing and three-dimensionally reconstructing monochrome historical films and documentaries, enhancing the preservation and visualization of archival footage.
   - **Key Responsibility**
     - Engineered a real-time colorization pipeline integrating segmented optical flow and the DeOldify algorithm, coupled with ColMap for feature extraction.
     - Developed an end-to-end 3D reconstruction framework utilizing Gaussian Splatting, enabling immersive visualization of colorized historical content.
 
-- **\\(BMS^3\\): Bayesian Modeling Based SwinUNet Segmentation on Self-distillation Architecture**        03.2024-08.2024
+- **\\(BMS^3\\): Bayesian Modeling Based SwinUNet Segmentation on Self-distillation Architecture**        
+  - 03.2024-08.2024
   - **Outline**
     - Developed a novel approach for medical image segmentation enhancing domain invariance and generalization.
   - **Key Responsibility**
@@ -64,14 +66,16 @@ Research Projects
   - **Achievement**
     - Outperformed state-of-the-art methods with 74.9% average DSC on target datasets and improved computational efficiency to 0.8155 images/second.
 
-- **ESP32-based Real-Time IV Drip Monitoring and Alert Platform**        11.2023-04.2024
+- **ESP32-based Real-Time IV Drip Monitoring and Alert Platform**        
+  - 11.2023-04.2024
   - [**GITHUB**](github.com/ffftuanxxx/ESP32-liquid)        [**DEMO**](elucidator.cn/esp32hosp-demo/)
   - **Outline**
     - Developed an innovative IoT-based system for real-time monitoring and control of intravenous drips in hospital settings.
   - **Key Responsibility**
     - Designed and implemented an integrated system using ESP32, incorporating drop sensors for real-time monitoring, servo motors for flow control, wireless communication for alert transmission, and a centralized nurse terminal as monitor for multiple IV stations.
 
-- [**Mutual Information Calculation on Different Appearances**](http://arxiv.org/abs/2407.07410)        11.2023-04.2024
+- [**Mutual Information Calculation on Different Appearances**](http://arxiv.org/abs/2407.07410)        
+  - 11.2023-04.2024
   - **Outline**
     - Conducted research on applying mutual information (MI) to assess similarity between images, particularly focusing on comparing appearances of different individuals.
   - **Key Responsibility**
@@ -79,19 +83,22 @@ Research Projects
 
 
 
-- [**U-Net Conditional GAN-Based Data Augmentation in Classification Problem with Low Data Resource**](elucidator.cn/dataaug/)        10.2023-12.2023
+- [**U-Net Conditional GAN-Based Data Augmentation in Classification Problem with Low Data Resource**](elucidator.cn/dataaug/)        
+  - 10.2023-12.2023
   - **Outline**
     - Modified an innovative data augmentation technique using conditional Generative Adversarial Networks (cGANs) to address low data resource challenges in medical image classification.
   - **Key Responsibility**
     - Designed and implemented a U-Net based cGAN architecture for generating synthetic medical images, integrating it with classification models (ResNet, DenseNet) to enhance performance on datasets including ChestXray8, LiTS, NCT-CRC-HE-100K, and BreastUltra.
 
-- **Precision Area Control and Line Crossing Alerts based on YOLOv8**        11.2023-12.2023
+- **Precision Area Control and Line Crossing Alerts based on YOLOv8**        
+  - 11.2023-12.2023
   - **Outline**
     - Developed an advanced real-time detection system for traffic monitoring and human tracking applications on certain area and lines.
   - **Key Responsibility**
     - Implemented a YOLOv8-based detection system with custom zone counting and cross line detection functionalities, adapting and fine-tuning the COCO-trained model to optimize performance for specific traffic and human detection requirements.
 
-- [**HuBMAP + HPA - Hacking the Human Body (Kaggle Competition)**](https://www.kaggle.com/competitions/hubmap-organ-segmentation)        07.2022-10.2022
+- [**HuBMAP + HPA - Hacking the Human Body (Kaggle Competition)**](https://www.kaggle.com/competitions/hubmap-organ-segmentation)        
+  - 07.2022-10.2022
   - **Outline**
     - Participated in a Kaggle competition focused on identifying and segmenting functional tissue units (FTUs) across five human organs using tissue section images.
   - **Key Responsibility**
@@ -99,18 +106,21 @@ Research Projects
   - **Achievements**
     - Won a bronze medal in the competition.
 
-- **OpenGL My World: Interactive 3D Environment with Object Interaction**       04.2024-05.2024
+- **OpenGL My World: Interactive 3D Environment with Object Interaction**       
+  - 04.2024-05.2024
   - [**GITHUB**](github.com/ffftuanxxx/OpenGL-My-World)
   - **Main**
     - Developed a 3D World using OpenGL: Featured dynamic object tracking, diverse textures, and detailed building structures. Enabled first-person movement and object interaction.
     - Addressed Technical Challenges: Focused on performance optimization, debugging, user input handling, collision detection, random object generation, gravitational physics, and skybox integration.
 
-- **BCI Signal Processing**       12.2023-02.2024
+- **BCI Signal Processing**       
+  - 12.2023-02.2024
   - **Main**
     - Utilize transfer learning on the “efficientnet” to classify six kinds of harmful brain activities based on EEG signal, and use both the semantic data signal and SWIN transformer to make the prediction.
     - Add new noise reduction methods to deal with the accident pulse, and finish the competition of HMS on Kaggle and the database obtains a high score; Works on this project will continue.
 
-- **Compiler Construction Development based on C**       09.2023-01.2024
+- **Compiler Construction Development based on C**       
+  - 09.2023-01.2024
   - [**GITHUB**](github.com/ffftuanxxx/CCP)
   - **Main**
     - Constructed a new compiler in C in 3 phases: lexical analysis, syntax analysis and semantic analysis. Implemented a C-based compiler with a DFA lexer, AVL tree symbol table, a parsing table for shift/reduce operations, and Hindley-Milner type checking with β-reduction.
@@ -118,7 +128,8 @@ Research Projects
 
 Early Projects
 ======
-- **Non-chordal Music Generation**       10.2022-11.2022
+- **Non-chordal Music Generation**
+  - 10.2022-11.2022
   - **Main**
     - Designed and implemented a non-chordal music generation system using Bi-LSTM. Provided two ways for generating the non-chordal music, Auto-generation and Continuation Generation. Employed temperature sampling and designed lexical lists to map the corpus for digital storage.
 
