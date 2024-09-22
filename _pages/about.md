@@ -101,15 +101,26 @@ Research Projects
 
 - **OpenGL My World: Interactive 3D Environment with Object Interaction**       04.2024-05.2024
   - [**GITHUB**](github.com/ffftuanxxx/OpenGL-My-World)
-  - **Outline**
-    - Participated in a Kaggle competition focused on identifying and segmenting functional tissue units (FTUs) across five human organs using tissue section images.
-  - **Key Responsibility**
-    - Developed a semantic segmentation model using ASPP and FPN for feature extraction, implementing model fusion techniques to enhance accuracy and reduce complexity, achieving a public score of 0.79 on Kaggle.
-  - **Achievements**
-    - Won a bronze medal in the competition.
+  - **Main**
+    - Developed a 3D World using OpenGL: Featured dynamic object tracking, diverse textures, and detailed building structures. Enabled first-person movement and object interaction.
+    - Addressed Technical Challenges: Focused on performance optimization, debugging, user input handling, collision detection, random object generation, gravitational physics, and skybox integration.
+
+- **BCI Signal Processing**       12.2023-02.2024
+  - **Main**
+    - Utilize transfer learning on the “efficientnet” to classify six kinds of harmful brain activities based on EEG signal, and use both the semantic data signal and SWIN transformer to make the prediction.
+    - Add new noise reduction methods to deal with the accident pulse, and finish the competition of HMS on Kaggle and the database obtains a high score; Works on this project will continue.
+
+- **Compiler Construction Development based on C**       09.2023-01.2024
+  - [**GITHUB**](github.com/ffftuanxxx/CCP)
+  - **Main**
+    - Constructed a new compiler in C in 3 phases: lexical analysis, syntax analysis and semantic analysis. Implemented a C-based compiler with a DFA lexer, AVL tree symbol table, a parsing table for shift/reduce operations, and Hindley-Milner type checking with β-reduction.
+
 
 Early Projects
 ======
+- **Non-chordal Music Generation**       10.2022-11.2022
+  - **Main**
+    - Designed and implemented a non-chordal music generation system using Bi-LSTM. Provided two ways for generating the non-chordal music, Auto-generation and Continuation Generation. Employed temperature sampling and designed lexical lists to map the corpus for digital storage.
 
 Skills
 ======
