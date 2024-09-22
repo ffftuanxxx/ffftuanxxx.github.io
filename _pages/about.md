@@ -71,6 +71,42 @@ Research Projects
   - **Key Responsibility**
     - Designed and implemented an integrated system using ESP32, incorporating drop sensors for real-time monitoring, servo motors for flow control, wireless communication for alert transmission, and a centralized nurse terminal as monitor for multiple IV stations.
 
+- [**Mutual Information Calculation on Different Appearances**](http://arxiv.org/abs/2407.07410)        11.2023-04.2024
+  - **Outline**
+    - Conducted research on applying mutual information (MI) to assess similarity between images, particularly focusing on comparing appearances of different individuals.
+  - **Key Responsibility**
+    - Implemented and analyzed mutual information, entropy, and information gain algorithms for image matching and similarity assessment, including pre-processing techniques, probability density function calculations, and performance evaluations across various image scenarios.
+
+
+
+- [**U-Net Conditional GAN-Based Data Augmentation in Classification Problem with Low Data Resource**](elucidator.cn/dataaug/)        10.2023-12.2023
+  - **Outline**
+    - Modified an innovative data augmentation technique using conditional Generative Adversarial Networks (cGANs) to address low data resource challenges in medical image classification.
+  - **Key Responsibility**
+    - Designed and implemented a U-Net based cGAN architecture for generating synthetic medical images, integrating it with classification models (ResNet, DenseNet) to enhance performance on datasets including ChestXray8, LiTS, NCT-CRC-HE-100K, and BreastUltra.
+
+- **Precision Area Control and Line Crossing Alerts based on YOLOv8**        11.2023-12.2023
+  - **Outline**
+    - Developed an advanced real-time detection system for traffic monitoring and human tracking applications on certain area and lines.
+  - **Key Responsibility**
+    - Implemented a YOLOv8-based detection system with custom zone counting and cross line detection functionalities, adapting and fine-tuning the COCO-trained model to optimize performance for specific traffic and human detection requirements.
+
+- [**HuBMAP + HPA - Hacking the Human Body (Kaggle Competition)**](https://www.kaggle.com/competitions/hubmap-organ-segmentation)        07.2022-10.2022
+  - **Outline**
+    - Participated in a Kaggle competition focused on identifying and segmenting functional tissue units (FTUs) across five human organs using tissue section images.
+  - **Key Responsibility**
+    - Developed a semantic segmentation model using ASPP and FPN for feature extraction, implementing model fusion techniques to enhance accuracy and reduce complexity, achieving a public score of 0.79 on Kaggle.
+  - **Achievements**
+    - Won a bronze medal in the competition.
+
+- **OpenGL My World: Interactive 3D Environment with Object Interaction**       04.2024-05.2024
+  - [**GITHUB**](github.com/ffftuanxxx/OpenGL-My-World)
+  - **Outline**
+    - Participated in a Kaggle competition focused on identifying and segmenting functional tissue units (FTUs) across five human organs using tissue section images.
+  - **Key Responsibility**
+    - Developed a semantic segmentation model using ASPP and FPN for feature extraction, implementing model fusion techniques to enhance accuracy and reduce complexity, achieving a public score of 0.79 on Kaggle.
+  - **Achievements**
+    - Won a bronze medal in the competition.
 
 Early Projects
 ======
