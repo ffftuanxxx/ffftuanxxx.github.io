@@ -56,13 +56,21 @@ Research Projects
     - Engineered a real-time colorization pipeline integrating segmented optical flow and the DeOldify algorithm, coupled with ColMap for feature extraction.
     - Developed an end-to-end 3D reconstruction framework utilizing Gaussian Splatting, enabling immersive visualization of colorized historical content.
 
-- **\\(BMS^3\\): Bayesian Modeling Based SwinUNet Segmentation on Self-distillation Architecture**        06.2024-Present
+- **\\(BMS^3\\): Bayesian Modeling Based SwinUNet Segmentation on Self-distillation Architecture**        03.2024-08.2024
   - **Outline**
     - Developed a novel approach for medical image segmentation enhancing domain invariance and generalization.
   - **Key Responsibility**
     - Integrated Bayesian modeling with Swin Transformer-based U-Net architecture and implemented self-distillation mechanism, conducting experiments on multiple prostate MRI datasets.
   - **Achievement**
     - Outperformed state-of-the-art methods with 74.9% average DSC on target datasets and improved computational efficiency to 0.8155 images/second.
+
+- **ESP32-based Real-Time IV Drip Monitoring and Alert Platform**        11.2023-04.2024
+  - [**GITHUB**](github.com/ffftuanxxx/ESP32-liquid)        [**DEMO**](elucidator.cn/esp32hosp-demo/)
+  - **Outline**
+    - Developed an innovative IoT-based system for real-time monitoring and control of intravenous drips in hospital settings.
+  - **Key Responsibility**
+    - Designed and implemented an integrated system using ESP32, incorporating drop sensors for real-time monitoring, servo motors for flow control, wireless communication for alert transmission, and a centralized nurse terminal as monitor for multiple IV stations.
+
 
 Early Projects
 ======
