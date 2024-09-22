@@ -49,12 +49,20 @@ On-going Publications
 
 Research Projects
 ======
-- [**GBC: Gaussian-splatting Based Colorization**](elucidator.cn/gbc-demo/)
+- [**GBC: Gaussian-splatting Based Colorization**](elucidator.cn/gbc-demo/)        06.2024-Present
   - **Outline**
     - Pioneered an innovative system for colorizing and three-dimensionally reconstructing monochrome historical films and documentaries, enhancing the preservation and visualization of archival footage.
   - **Key Responsibility**
     - Engineered a real-time colorization pipeline integrating segmented optical flow and the DeOldify algorithm, coupled with ColMap for feature extraction.
     - Developed an end-to-end 3D reconstruction framework utilizing Gaussian Splatting, enabling immersive visualization of colorized historical content.
+
+- **\\(BMS^3\\): Bayesian Modeling Based SwinUNet Segmentation on Self-distillation Architecture**        06.2024-Present
+  - **Outline**
+    - Developed a novel approach for medical image segmentation enhancing domain invariance and generalization.
+  - **Key Responsibility**
+    - Integrated Bayesian modeling with Swin Transformer-based U-Net architecture and implemented self-distillation mechanism, conducting experiments on multiple prostate MRI datasets.
+  - **Achievement**
+    - Outperformed state-of-the-art methods with 74.9% average DSC on target datasets and improved computational efficiency to 0.8155 images/second.
 
 Early Projects
 ======
