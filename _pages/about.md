@@ -44,18 +44,17 @@ Honors & Awards
 
 On-going Publications
 ======
-- Jiecheng Liao, Weifeng Su, Shi He, Shuhong Chen, Yixuan Ji, Junhao Lu, Liangfu Chen. "\\(BMS^3\\): Bayesian Modeling Based SwinUNet Segmentation on Self-distillation Architecture". IEEE International Conference on Bioinformatics and Biomedicine. Under Review, 2024
-- Shuhong Chen, Zhenkun Luo, Jiecheng Liao, et al. "Smart Contract Vulnerability Detection based on Bytecode Augmentation and Semantic Structure Graph". IEEE Transactions on Dependable and Security Computing. Under Review
+- **Jiecheng Liao**, Weifeng Su, Shi He, Shuhong Chen, Yixuan Ji, Junhao Lu, Liangfu Chen. "\\(BMS^3\\): Bayesian Modeling Based SwinUNet Segmentation on Self-distillation Architecture". IEEE International Conference on Bioinformatics and Biomedicine. Under Review, 2024
+- Shuhong Chen, Zhenkun Luo, **Jiecheng Liao**, et al. "Smart Contract Vulnerability Detection based on Bytecode Augmentation and Semantic Structure Graph". IEEE Transactions on Dependable and Security Computing. Under Review
 
 Research Projects
 ======
-- **GBC: Gaussian-splatting Based Colorization**
+- [**GBC: Gaussian-splatting Based Colorization**](elucidator.cn/gbc-demo/)
   - **Outline**
-    - gaussian splatting based feature image on 
+    - Pioneered an innovative system for colorizing and three-dimensionally reconstructing monochrome historical films and documentaries, enhancing the preservation and visualization of archival footage.
   - **Key Responsibility**
-    - 
-  - **Achievement**
-
+    - Engineered a real-time colorization pipeline integrating segmented optical flow and the DeOldify algorithm, coupled with ColMap for feature extraction.
+    - Developed an end-to-end 3D reconstruction framework utilizing Gaussian Splatting, enabling immersive visualization of colorized historical content.
 
 Early Projects
 ======
