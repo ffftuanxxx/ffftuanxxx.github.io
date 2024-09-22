@@ -82,8 +82,6 @@ Research Projects
   - **Key Responsibility**
     - Implemented and analyzed mutual information, entropy, and information gain algorithms for image matching and similarity assessment, including pre-processing techniques, probability density function calculations, and performance evaluations across various image scenarios.
 
-
-
 - [**U-Net Conditional GAN-Based Data Augmentation in Classification Problem with Low Data Resource**](elucidator.cn/dataaug/)        
   - 10.2023-12.2023
   - **Outline**
