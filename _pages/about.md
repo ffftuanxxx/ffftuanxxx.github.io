@@ -105,12 +105,17 @@ Research Projects
   - **Achievements**
     - Won a bronze medal in the competition.
 
-- **OpenGL My World: Interactive 3D Environment with Object Interaction**       
+- **OpenGL My World: Interactive 3D Environment**       
   - 04.2024-05.2024
   - [**GITHUB**](github.com/ffftuanxxx/OpenGL-My-World)
-  - **Main**
-    - Developed a 3D World using OpenGL: Featured dynamic object tracking, diverse textures, and detailed building structures. Enabled first-person movement and object interaction.
-    - Addressed Technical Challenges: Focused on performance optimization, debugging, user input handling, collision detection, random object generation, gravitational physics, and skybox integration.
+  - **Key Features**
+    - Developed an immersive 3D world using OpenGL with dynamic object tracking and interaction
+    - Implemented first-person movement, diverse textures, and detailed building structures
+  - **Technical Achievements**
+    - Optimized performance for smooth rendering and interaction
+    - Implemented collision detection, random object generation, and gravitational physics
+    - Integrated skybox for enhanced visual immersion
+    - Developed robust user input handling and debugging systems
 
 - **BCI Signal Processing**       
   - 12.2023-02.2024
