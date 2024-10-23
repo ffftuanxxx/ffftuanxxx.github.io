@@ -49,7 +49,7 @@ On-going Publications
 
 Research Projects
 ======
-- [**GBC: Gaussian-splatting Based Colorization**](elucidator.cn/gbc-demo/)        
+- [**GBC: Gaussian-splatting Based Colorization**](https://elucidator.cn/gbc-demo/)        
   - 06.2024-Present
   - **Outline**
     - Pioneered an innovative system for colorizing and three-dimensionally reconstructing monochrome historical films and documentaries, enhancing the preservation and visualization of archival footage.
@@ -68,8 +68,8 @@ Research Projects
 
 - **ESP32-based Real-Time IV Drip Monitoring and Alert Platform**        
   - 11.2023-04.2024
-  - [**GITHUB**](github.com/ffftuanxxx/ESP32-liquid)        
-  - [**DEMO**](elucidator.cn/esp32hosp-demo/)
+  - [**GITHUB**](https://github.com/ffftuanxxx/ESP32-liquid)        
+  - [**DEMO**](https://elucidator.cn/esp32hosp-demo/)
   - **Outline**
     - Developed an innovative IoT-based system for real-time monitoring and control of intravenous drips in hospital settings.
   - **Key Responsibility**
