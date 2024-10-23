@@ -83,7 +83,7 @@ Research Projects
   - **Key Responsibility**
     - Implemented and analyzed mutual information, entropy, and information gain algorithms for image matching and similarity assessment, including pre-processing techniques, probability density function calculations, and performance evaluations across various image scenarios.
 
-- [**U-Net Conditional GAN-Based Data Augmentation in Classification Problem with Low Data Resource**](elucidator.cn/dataaug/)        
+- [**U-Net Conditional GAN-Based Data Augmentation in Classification Problem with Low Data Resource**](https://elucidator.cn/dataaug/)        
   - 10.2023-12.2023
   - **Outline**
     - Modified an innovative data augmentation technique using conditional Generative Adversarial Networks (cGANs) to address low data resource challenges in medical image classification.
@@ -108,7 +108,7 @@ Research Projects
 
 - **OpenGL My World: Interactive 3D Environment**       
   - 04.2024-05.2024
-  - [**GITHUB**](github.com/ffftuanxxx/OpenGL-My-World)
+  - [**GITHUB**](https://github.com/ffftuanxxx/OpenGL-My-World)
   - **Key Features**
     - Developed an immersive 3D world using OpenGL with dynamic object tracking and interaction
     - Implemented first-person movement, diverse textures, and detailed building structures
@@ -126,7 +126,7 @@ Research Projects
 
 - **Compiler Construction Development based on C**       
   - 09.2023-01.2024
-  - [**GITHUB**](github.com/ffftuanxxx/CCP)
+  - [**GITHUB**](https://github.com/ffftuanxxx/CCP)
   - **Main**
     - Constructed a new compiler in C in 3 phases: lexical analysis, syntax analysis and semantic analysis. Implemented a C-based compiler with a DFA lexer, AVL tree symbol table, a parsing table for shift/reduce operations, and Hindley-Milner type checking with β-reduction.
 
@@ -135,13 +135,12 @@ Early Projects
 ======
 - **Non-chordal Music Generation**
   - 10.2022-11.2022
-  - [**GITHUB**](github.com/ffftuanxxx/CCP)
   - **Main**
     - Designed and implemented a non-chordal music generation system using Bi-LSTM. Provided two ways for generating the non-chordal music, Auto-generation and Continuation Generation. Employed temperature sampling and designed lexical lists to map the corpus for digital storage.
 
 - **Network Communication Software**
   - 06.2023
-  - [**GITHUB**](github.com/ffftuanxxx/Com-sot)
+  - [**GITHUB**](https://github.com/ffftuanxxx/Com-sot)
   - **Main**
     - Developed a network communication software using C++ with QT for the GUI, featuring a multi-threaded server and client for data transmission, and MySQL for data storage.
 
@@ -152,20 +151,20 @@ Early Projects
 
 - **Designed Database for Medical Donation and Web Processing**
   - 10.2022-12.2022
-  - [**GITHUB**](github.com/ffftuanxxx/Donation-Management-System)
+  - [**GITHUB**](https://github.com/ffftuanxxx/Donation-Management-System)
   - **Main**
     - Created a web-based donation platform that aims to facilitate donations to poverty and disaster-affected areas worldwide.
     - Designed a relational database for a web-based donation platform using MySQL, focusing on entities such as users, beneficiaries, donations, and comments, with a front-end implemented in Bootstrap.
 
 - **Webpage and Database Design for Book Purchase and Exchange Store**
   - 05.2022-06.2022
-  - [**GITHUB**](github.com/ffftuanxxx/Book-purchase-and-exchange-system)
+  - [**GITHUB**](https://github.com/ffftuanxxx/Book-purchase-and-exchange-system)
   - **Main**
     - Developed a comprehensive book platform allowing users to purchase and exchange books, with the entire system self-developed.
 
 - **Library Lending System**
   - 05.2022-06.2022
-  - [**GITHUB**](github.com/ffftuanxxx/Library-Book-Lending-System)
+  - [**GITHUB**](https://github.com/ffftuanxxx/Library-Book-Lending-System)
   - **Main**
     - Developed a Java-based library book lending system with a command-line interface, featuring user management, book tracking, and error handling, structured with interfaces and abstract classes.
 
