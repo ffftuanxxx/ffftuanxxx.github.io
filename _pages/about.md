@@ -20,7 +20,7 @@ You can find my CV here: [Jiecheng Liao's Curriculum Vitae](../assets/cv_jiechen
 
 Check my [personal website](https://elucidator.cn) for more interesting stuff.
 
-[Email](mailto:liaojiecheng25@163.com) / [Github](https://github.com/ffftuanxxx) / [Personal Website](elucidator.cn) /
+[Email](mailto:liaojiecheng25@163.com) / [Github](https://github.com/ffftuanxxx) / [Personal Website](https://elucidator.cn) /
 
 Research Interests
 ======
