@@ -16,7 +16,7 @@ I had served as a research member at Guangdong Key Laboratory for Artificial Int
 
 <!-- I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. -->
 
-You can find my CV here: [Jiecheng Liao's Curriculum Vitae](../assets/cv_jiecheng_liao.pdf).
+You can find my CV here: [Jiecheng LIAO's Curriculum Vitae](../assets/cv_jiecheng_liao.pdf).
 
 Check my **[Personal Website](https://elucidator.cn)** for more interesting stuff.
 
