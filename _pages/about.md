@@ -18,7 +18,7 @@ I had served as a research member at Guangdong Key Laboratory for Artificial Int
 
 You can find my CV here: [Jiecheng Liao's Curriculum Vitae](../assets/cv_jiecheng_liao.pdf).
 
-Check my **[personal website](https://elucidator.cn)** for more interesting stuff.
+Check my **[Personal Website](https://elucidator.cn)** for more interesting stuff.
 
 [Email](mailto:liaojiecheng25@163.com) / [Github](https://github.com/ffftuanxxx) / [Personal Website](https://elucidator.cn) /
 
