@@ -33,6 +33,13 @@ Research Interests
 
 My current research focuses on practical problems that artificial intelligence on Vision faces in Industry and real life. In a word, advanced algorithm and architecture in DL and CV positively influence the life of many people. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
+Scholarships:
+======
+- **First-Class** Award of UIC Scholarship in December 2024
+- **Guangdong Medical Valley** Scholarship in November 2024
+- **Second-Class** Award of UIC Scholarship in November 2023
+- **First-Class** Award of UIC Scholarship in November 2022
+
 Honors & Awards
 ======
 - Second Prize in the Guangdong Science and Innovation Competition of **Artificial Intelligence Wheeled Robot** in September 2023
