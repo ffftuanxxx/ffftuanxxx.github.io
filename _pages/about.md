@@ -12,7 +12,8 @@ Here is Jiecheng Liao (James, 廖皆成).
 I am an undergraduate student currently finishing my Computer Science and Technology Bachelor degree at the [Beijing Normal University-Hong Kong Baptist University United International College (UIC)](https://www.uic.edu.cn/). 
 <!-- My research interest includes Machine Learning, Deep Learning, Computer Vision, Computer Graphics, and Medical Image Processing. -->
 
-I had served as a research member at Guangdong Key Laboratory for Artificial Intelligence and Multi-Modal Data Processing advised by [Prof. Chen](https://www.researchgate.net/profile/Shuhong-Chen-2), and currently focusing on my project in Data intelligence lab of UIC. I am also very fortunate to be advised by [Prof. Zhang](https://staff.uic.edu.cn/amyzhang/en) and [Prof. Su](https://staff.uic.edu.cn/wfsu/en) for some of my projects.
+<!-- I had served as a research member at Guangdong Key Laboratory for Artificial Intelligence and Multi-Modal Data Processing advised by [Prof. Chen](https://www.researchgate.net/profile/Shuhong-Chen-2), and --> 
+I am currently focusing on my project in Data intelligence lab of UIC. I am also very fortunate to be advised by [Prof. Zhang](https://staff.uic.edu.cn/amyzhang/en) and [Prof. Su](https://staff.uic.edu.cn/wfsu/en) for some of my projects.
 
 <!-- I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. -->
 
@@ -51,7 +52,7 @@ Honors & Awards
 
 Publications
 ======
--	**Jiecheng Liao**, Shi He, et al. “GBC: Gaussian-Based Colorization and Super-Resolution for 3D Reconstruction”. 19th ACM SIGGRAPH VRCAI 2024. Accepted
+-	**Jiecheng Liao**, Shi He, et al. “GBC: Gaussian-Based Colorization and Super-Resolution for 3D Reconstruction”. 19th ACM SIGGRAPH VRCAI 2024. https://doi.org/10.1145/3703619.3706039
 - **Jiecheng Liao**, Weifeng Su, Shi He, Shuhong Chen, Yixuan Ji, Junhao Lu, Liangfu Chen. "\\(BMS^3\\): Bayesian Modeling Based SwinUNet Segmentation on Self-distillation Architecture". IEEE International Conference on Bioinformatics and Biomedicine. Under Review, 2024
 - Shuhong Chen, Zhenkun Luo, **Jiecheng Liao**, et al. "Smart Contract Vulnerability Detection based on Bytecode Augmentation and Semantic Structure Graph". IEEE Transactions on Dependable and Security Computing. Under Review
 - **Jiecheng Liao**, Junhao Lu, Yixuan Ji, et al. “Mutual Information Calculation on Different Appearances”. International Journal of Science and Research Archive. Accepted
