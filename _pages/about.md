@@ -53,8 +53,8 @@ Honors & Awards
 Publications
 ======
 -	**Jiecheng Liao**, Shi He, et al. “GBC: Gaussian-Based Colorization and Super-Resolution for 3D Reconstruction”. 19th ACM SIGGRAPH VRCAI 2024. https://doi.org/10.1145/3703619.3706039
-- **Jiecheng Liao**, Weifeng Su, Shi He, Shuhong Chen, Yixuan Ji, Junhao Lu, Liangfu Chen. "\\(BMS^3\\): Bayesian Modeling Based SwinUNet Segmentation on Self-distillation Architecture". IEEE International Conference on Bioinformatics and Biomedicine. Under Review, 2024
-- Shuhong Chen, Zhenkun Luo, **Jiecheng Liao**, et al. "Smart Contract Vulnerability Detection based on Bytecode Augmentation and Semantic Structure Graph". IEEE Transactions on Dependable and Security Computing. Under Review
+<!--- **Jiecheng Liao**, Weifeng Su, Shi He, Shuhong Chen, Yixuan Ji, Junhao Lu, Liangfu Chen. "\\(BMS^3\\): Bayesian Modeling Based SwinUNet Segmentation on Self-distillation Architecture". IEEE International Conference on Bioinformatics and Biomedicine. Under Review, 2024
+- Shuhong Chen, Zhenkun Luo, **Jiecheng Liao**, et al. "Smart Contract Vulnerability Detection based on Bytecode Augmentation and Semantic Structure Graph". IEEE Transactions on Dependable and Security Computing. Under Review-->
 - **Jiecheng Liao**, Junhao Lu, Yixuan Ji, et al. “Mutual Information Calculation on Different Appearances”. International Journal of Science and Research Archive. Accepted
 
 Research Projects
